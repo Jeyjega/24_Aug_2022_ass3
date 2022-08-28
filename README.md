@@ -1,6 +1,8 @@
 # 24_Aug_2022_ass3_pragatheeswaran B
-![Screenshot (16)](https://user-images.githubusercontent.com/87663451/187060447-ab00fef9-5014-4537-9e28-0d82227c3849.png)
-![Screenshot (18)](https://user-images.githubusercontent.com/87663451/187060457-d469f0c7-42ff-40f3-a60a-ed25efcbdb63.png)
-![Screenshot (19)](https://user-images.githubusercontent.com/87663451/187060468-2434e5de-9243-4a90-be9f-553b9bc91c5e.png)
-![Screenshot (20)](https://user-images.githubusercontent.com/87663451/187060471-5d94a118-67a8-41f1-b714-20a17bf11a6c.png)
+![Screenshot (21)](https://user-images.githubusercontent.com/87663451/187061189-6e5c0d1d-911d-4e6c-be55-7643181ebfbf.png)
+![Screenshot (22)](https://user-images.githubusercontent.com/87663451/187061196-db574cac-4957-4f29-8659-5cfe58ff40ea.png)
+![Screenshot (23)](https://user-images.githubusercontent.com/87663451/187061200-8d60ec12-0b36-441c-a080-790f79cfd3c6.png)
+![Screenshot (24)](https://user-images.githubusercontent.com/87663451/187061206-a8a48de7-f9f2-49bc-9899-b502e49591e0.png)
+![Screenshot (25)](https://user-images.githubusercontent.com/87663451/187061210-7794af7a-96b6-462f-8ca8-2500764fd6d5.png)
+
 
